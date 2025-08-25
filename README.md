@@ -1,38 +1,26 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23abd1f5-0a9c-4489-aa77-d76a8336c6fd" />
+
 # ⭐ FrenchTopServeur - Plugin pour Nova-Life
 
-**FrenchTopServeur** est un plugin immersif développé pour le jeu **Nova-Life**, qui connecte directement ton serveur à un système de **vote TopServeur**.
-Il permet de **récompenser automatiquement les joueurs** qui votent, en apportant une touche interactive et motivante à l’expérience de jeu.
+**FrenchTopServeur** est un plugin immersif développé pour le jeu **Nova-Life**, qui connecte ton serveur au site **TopServeur**.  
+Il permet aux joueurs de **récupérer automatiquement des récompenses** après avoir voté, grâce à une commande simple et intuitive.
 
 ---
 
-🔹 Fonctionnalités Principales
-🗳️ Système de vote intégré
+## 🔹 Fonctionnalités Principales
 
-Ajout d’une commande simple :
+### 🗳️ Commande de vote
+- Utilisation de la commande :  /vote <pseudo>
+- Permet aux joueurs de **valider leur vote** et de **récupérer leur récompense** en jeu.
 
-/vote PseudoDuJoueur
+### 🎁 Récompenses configurables
+- Système de **récompenses aléatoires** (totalement personnalisables).
+- Possibilité de définir la **probabilité** des récompenses.
 
+### ⚙️ Sécurité & automatisation
+- Vérification de la **validité du vote** avant attribution.
+- **Logs détaillés** pour garder une trace des votes et récompenses distribuées.
 
-Le joueur peut récupérer sa récompense après avoir voté sur le site TopServeur.
+---
 
-🎁 Récompenses aléatoires et configurables
-
-Les récompenses sont entièrement configurables par l’administrateur.
-
-Un système de récompense aléatoire permet de varier les gains.
-
-Compatible avec tous types d’items, monnaie virtuelle ou avantages en jeu.
-
-⚙️ Gestion automatisée
-
-Vérifie la validité du vote avant de donner une récompense.
-
-Empêche le spam ou la triche avec un système de cooldown configurable.
-
-Logs détaillés pour suivre les votes et récompenses distribuées.
-
-🔌 Intégration transparente
-
-Conçu pour s’intégrer parfaitement à l’univers de Nova-Life.
-
-Léger, optimisé et pensé pour être simple à configurer.
+👉 Avec **FrenchTopServeur**, booste la visibilité de ton serveur et **récompense tes joueurs fidèles** grâce à un système clair, motivant et 100% configurable !
