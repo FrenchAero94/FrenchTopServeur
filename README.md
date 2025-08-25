@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23abd1f5-0a9c-4489-aa77-d76a8336c6fd" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c9a073a-f1f3-44ac-825b-c086ca649540" />
 
 # ⭐ FrenchTopServeur - Plugin pour Nova-Life
 
